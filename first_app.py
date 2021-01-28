@@ -80,4 +80,3 @@ for i in range(100):
     tm.sleep(0.1)
 
 st.write('...and now we\'re done!')
-bar.
